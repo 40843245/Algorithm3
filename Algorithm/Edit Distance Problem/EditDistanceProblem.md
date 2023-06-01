@@ -35,10 +35,14 @@ Store it into variable then use it once it is needed. The one do NOT have to cal
 ## Applications
 It is commonly used in spell checking.
 
+
 ## Ref
 For Fuzzy Search Algorithm, visit the website.
 
 https://stackoverflow.com/questions/32337135/fuzzy-search-algorithm-approximate-string-matching-algorithm
 
+What is difference between fuzzy search and wildcard search?
+
 https://en.wikipedia.org/wiki/Approximate_string_matching
 
+https://www.techtarget.com/whatis/definition/fuzzy-search
