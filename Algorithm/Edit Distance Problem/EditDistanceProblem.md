@@ -23,8 +23,17 @@ Available operations are
           such as 
           abc -> a1c
           
-## Algorithm
+## Solution or Algorithm
+### Brute-Force Algorithm
+Solve it by viewing all possibles.
+
+### Dynamic Programming
+Store it into variable then use it once it is needed. The one do NOT have to calculate it again.
+
 ### Fuzzy Search Algorithm
+
+## Applications
+It is commonly used in spell checking.
 
 ## Ref
 For Fuzzy Search Algorithm, visit the website.
@@ -32,3 +41,4 @@ For Fuzzy Search Algorithm, visit the website.
 https://stackoverflow.com/questions/32337135/fuzzy-search-algorithm-approximate-string-matching-algorithm
 
 https://en.wikipedia.org/wiki/Approximate_string_matching
+
