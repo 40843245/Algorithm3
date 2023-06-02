@@ -46,3 +46,5 @@ What is difference between fuzzy search and wildcard search?
 https://en.wikipedia.org/wiki/Approximate_string_matching
 
 https://www.techtarget.com/whatis/definition/fuzzy-search
+
+https://learn.microsoft.com/en-us/azure/search/search-query-fuzzy
